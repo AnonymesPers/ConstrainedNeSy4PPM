@@ -107,4 +107,4 @@ The supplementary experimental results are available in the
 `SDFA_guided_NeSy_Supplement`_ file.
 
 .. _SDFA_guided_NeSy_Supplement:
-   https://github.com/JamilaOUKHARIJANE/NeSy4PPM/blob/master/ICPM_paper_supplements.pdf
+   https://github.com/JamilaOUKHARIJANE/NeSy4PPM/blob/master/SDFA_guided_NeSy_Supplement.pdf
